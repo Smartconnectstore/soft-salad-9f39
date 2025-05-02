@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "soft-salad-9f39",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "19bac6c3-bf41-46ef-a99f-d4a7e0333d00",
+      "database_name": "frosty-feather-9a46-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
